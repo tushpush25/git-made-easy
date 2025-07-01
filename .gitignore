@@ -1,0 +1,6 @@
+*.log
+# Don't add log file
+
+# Don't track the particular file
+
+requirement.txt
